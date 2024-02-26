@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MaaGlobalOption","MaaLoggingLevel","MaaStatus"],"fn":["maa_version","set_global_option"],"macro":["maa_bool","string","string_view"],"mod":["buffer","controller","custom","error","instance","internal","msg","resource","sync_context","toolkit"],"trait":["CallbackHandler"],"type":["MaaResult"]};

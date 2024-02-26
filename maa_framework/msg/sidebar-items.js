@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MaaMsg"],"struct":["MaaMsgAction","MaaMsgConnect","MaaMsgConnectFailed","MaaMsgResolution","MaaMsgResource","MaaMsgTask","MaaMsgTaskFocus","MaaMsgUUID"]};

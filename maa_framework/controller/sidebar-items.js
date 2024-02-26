@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MaaControllerOption"],"mod":["adb","dbg","win32"],"struct":["MaaControllerInstance"]};

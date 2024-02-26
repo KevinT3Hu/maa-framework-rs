@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"maa_framework":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.76.0/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"enum\" href=\"maa_framework/error/enum.Error.html\" title=\"enum maa_framework::error::Error\">Error</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

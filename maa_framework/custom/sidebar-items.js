@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["custom_action","custom_controller","custom_recognizer"]};

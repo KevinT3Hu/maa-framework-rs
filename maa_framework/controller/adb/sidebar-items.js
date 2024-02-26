@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MaaAdbControlScreencapType","MaaAdbControllerKeyType","MaaAdbControllerTouchType"],"struct":["MaaAdbControllerType"]};

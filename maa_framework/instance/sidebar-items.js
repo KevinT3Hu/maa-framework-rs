@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MaaInstOption"],"struct":["MaaInstance"],"trait":["TaskParam"]};
